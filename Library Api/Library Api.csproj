@@ -7,4 +7,10 @@
         <RootNamespace>Library_Api</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Dapper" Version="2.0.143" />
+      <PackageReference Include="Microsoft.Data.Sqlite" Version="8.0.0-preview.6.23329.4" />
+      <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    </ItemGroup>
+
 </Project>

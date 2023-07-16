@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "IxkHSZj2HFU+xm9QK1f2LPiQynWJyXarzAy5C6JWa4UB7QDSUeUGV2OoXThCGifia7Z1Y1TPLC16w2tRkwE5dw==",
+  "dgSpecHash": "FTnBQsg+cytBBTMOOCWuKgdnsTWTjjs0WqxNQaahhys/CrFySVbe1UjGqkWM1+jYNhHNyzgVOUjyR2dmvi12TA==",
   "success": true,
   "projectFilePath": "/Users/afimaamedufie/minimal_lib_api/Library Api/Library Api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/afimaamedufie/.nuget/packages/dapper/2.0.143/dapper.2.0.143.nupkg.sha512",
+    "/Users/afimaamedufie/.nuget/packages/microsoft.data.sqlite/8.0.0-preview.6.23329.4/microsoft.data.sqlite.8.0.0-preview.6.23329.4.nupkg.sha512",
+    "/Users/afimaamedufie/.nuget/packages/microsoft.data.sqlite.core/8.0.0-preview.6.23329.4/microsoft.data.sqlite.core.8.0.0-preview.6.23329.4.nupkg.sha512",
+    "/Users/afimaamedufie/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/afimaamedufie/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/afimaamedufie/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.5/sqlitepclraw.bundle_e_sqlite3.2.1.5.nupkg.sha512",
+    "/Users/afimaamedufie/.nuget/packages/sqlitepclraw.core/2.1.5/sqlitepclraw.core.2.1.5.nupkg.sha512",
+    "/Users/afimaamedufie/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.5/sqlitepclraw.lib.e_sqlite3.2.1.5.nupkg.sha512",
+    "/Users/afimaamedufie/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.5/sqlitepclraw.provider.e_sqlite3.2.1.5.nupkg.sha512",
+    "/Users/afimaamedufie/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/afimaamedufie/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/afimaamedufie/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/afimaamedufie/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/Users/afimaamedufie/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
   "logs": []
 }
